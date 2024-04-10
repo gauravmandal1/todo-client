@@ -1,0 +1,10 @@
+.task-details {
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .task-details h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
